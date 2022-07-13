@@ -1,6 +1,8 @@
 package com.galvanize;
+
 import java.util.HashMap;
-public class Application {
+
+public class RomanToDecimal {
 
     public static void main(String[] args) {
         System.out.println(romanToDecimal("I"));
